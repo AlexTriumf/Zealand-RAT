@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QvvI3N9vnoZNYRKPvTvSao/NeGsFuuaSPk13VRF6tGmBuhRS0DjPTfC8bCS+ISBSwi9xnA+vx1jtaFwiSm8uoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trium\\Desktop\\Zealand RAT\\ZRAT\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trium\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\trium\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\trium\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.3\\microsoft.netcore.app.runtime.win-x86.6.0.3.nupkg.sha512",
+    "C:\\Users\\trium\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.3\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.3.nupkg.sha512",
+    "C:\\Users\\trium\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.3\\microsoft.aspnetcore.app.runtime.win-x86.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

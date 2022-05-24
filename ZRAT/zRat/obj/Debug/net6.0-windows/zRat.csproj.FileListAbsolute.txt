@@ -1,0 +1,57 @@
+C:\Users\trium\Desktop\_Rat\zRat\zRat\bin\Debug\net6.0-windows\zRat.exe
+C:\Users\trium\Desktop\_Rat\zRat\zRat\bin\Debug\net6.0-windows\zRat.deps.json
+C:\Users\trium\Desktop\_Rat\zRat\zRat\bin\Debug\net6.0-windows\zRat.runtimeconfig.json
+C:\Users\trium\Desktop\_Rat\zRat\zRat\bin\Debug\net6.0-windows\zRat.dll
+C:\Users\trium\Desktop\_Rat\zRat\zRat\bin\Debug\net6.0-windows\zRat.pdb
+C:\Users\trium\Desktop\_Rat\zRat\zRat\obj\Debug\net6.0-windows\zRat.csproj.AssemblyReference.cache
+C:\Users\trium\Desktop\_Rat\zRat\zRat\obj\Debug\net6.0-windows\zRat.CurrentForm.resources
+C:\Users\trium\Desktop\_Rat\zRat\zRat\obj\Debug\net6.0-windows\zRat.Properties.Resources.resources
+C:\Users\trium\Desktop\_Rat\zRat\zRat\obj\Debug\net6.0-windows\zRat.csproj.GenerateResource.cache
+C:\Users\trium\Desktop\_Rat\zRat\zRat\obj\Debug\net6.0-windows\zRat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trium\Desktop\_Rat\zRat\zRat\obj\Debug\net6.0-windows\zRat.AssemblyInfoInputs.cache
+C:\Users\trium\Desktop\_Rat\zRat\zRat\obj\Debug\net6.0-windows\zRat.AssemblyInfo.cs
+C:\Users\trium\Desktop\_Rat\zRat\zRat\obj\Debug\net6.0-windows\zRat.csproj.CoreCompileInputs.cache
+C:\Users\trium\Desktop\_Rat\zRat\zRat\obj\Debug\net6.0-windows\zRat.dll
+C:\Users\trium\Desktop\_Rat\zRat\zRat\obj\Debug\net6.0-windows\refint\zRat.dll
+C:\Users\trium\Desktop\_Rat\zRat\zRat\obj\Debug\net6.0-windows\zRat.pdb
+C:\Users\trium\Desktop\_Rat\zRat\zRat\obj\Debug\net6.0-windows\zRat.genruntimeconfig.cache
+C:\Users\trium\Desktop\_Rat\zRat\zRat\obj\Debug\net6.0-windows\ref\zRat.dll
+C:\Users\trium\Desktop\awqa\zRat\obj\Debug\net6.0-windows\zRat.csproj.AssemblyReference.cache
+C:\Users\trium\Desktop\awqa\zRat\obj\Debug\net6.0-windows\zRat.CurrentForm.resources
+C:\Users\trium\Desktop\awqa\zRat\obj\Debug\net6.0-windows\zRat.Properties.Resources.resources
+C:\Users\trium\Desktop\awqa\zRat\obj\Debug\net6.0-windows\zRat.RemoteScreen.resources
+C:\Users\trium\Desktop\awqa\zRat\obj\Debug\net6.0-windows\zRat.csproj.GenerateResource.cache
+C:\Users\trium\Desktop\awqa\zRat\obj\Debug\net6.0-windows\zRat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trium\Desktop\awqa\zRat\obj\Debug\net6.0-windows\zRat.AssemblyInfoInputs.cache
+C:\Users\trium\Desktop\awqa\zRat\obj\Debug\net6.0-windows\zRat.AssemblyInfo.cs
+C:\Users\trium\Desktop\awqa\zRat\obj\Debug\net6.0-windows\zRat.csproj.CoreCompileInputs.cache
+C:\Users\trium\Desktop\awqa\zRat\obj\Debug\net6.0-windows\zRat.dll
+C:\Users\trium\Desktop\awqa\zRat\obj\Debug\net6.0-windows\ref\zRat.dll
+C:\Users\trium\Desktop\awqa\zRat\obj\Debug\net6.0-windows\zRat.pdb
+C:\Users\trium\Desktop\awqa\zRat\bin\Debug\net6.0-windows\zRat.exe
+C:\Users\trium\Desktop\awqa\zRat\bin\Debug\net6.0-windows\zRat.deps.json
+C:\Users\trium\Desktop\awqa\zRat\bin\Debug\net6.0-windows\zRat.runtimeconfig.json
+C:\Users\trium\Desktop\awqa\zRat\bin\Debug\net6.0-windows\zRat.dll
+C:\Users\trium\Desktop\awqa\zRat\bin\Debug\net6.0-windows\zRat.pdb
+C:\Users\trium\Desktop\awqa\zRat\obj\Debug\net6.0-windows\refint\zRat.dll
+C:\Users\trium\Desktop\awqa\zRat\obj\Debug\net6.0-windows\zRat.genruntimeconfig.cache
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\bin\Debug\net6.0-windows\zRat.exe
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\bin\Debug\net6.0-windows\zRat.deps.json
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\bin\Debug\net6.0-windows\zRat.runtimeconfig.json
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\bin\Debug\net6.0-windows\zRat.dll
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\bin\Debug\net6.0-windows\zRat.pdb
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\obj\Debug\net6.0-windows\zRat.csproj.AssemblyReference.cache
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\obj\Debug\net6.0-windows\zRat.CurrentForm.resources
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\obj\Debug\net6.0-windows\zRat.ProcessManager.resources
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\obj\Debug\net6.0-windows\zRat.Properties.Resources.resources
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\obj\Debug\net6.0-windows\zRat.RemoteScreen.resources
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\obj\Debug\net6.0-windows\zRat.csproj.GenerateResource.cache
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\obj\Debug\net6.0-windows\zRat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\obj\Debug\net6.0-windows\zRat.AssemblyInfoInputs.cache
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\obj\Debug\net6.0-windows\zRat.AssemblyInfo.cs
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\obj\Debug\net6.0-windows\zRat.csproj.CoreCompileInputs.cache
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\obj\Debug\net6.0-windows\zRat.dll
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\obj\Debug\net6.0-windows\refint\zRat.dll
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\obj\Debug\net6.0-windows\zRat.pdb
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\obj\Debug\net6.0-windows\zRat.genruntimeconfig.cache
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\zRat\obj\Debug\net6.0-windows\ref\zRat.dll

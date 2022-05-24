@@ -1,0 +1,10 @@
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\Client\bin\Release\net6.0\publish\Client.exe
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\Client\bin\Release\net6.0\publish\Client.dll
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\Client\bin\Release\net6.0\publish\Client.deps.json
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\Client\bin\Release\net6.0\publish\Client.runtimeconfig.json
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\Client\bin\Release\net6.0\publish\Client.pdb
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\Client\bin\Release\net6.0\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\Client\bin\Release\net6.0\publish\System.Drawing.Common.dll
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\Client\bin\Release\net6.0\publish\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\Client\bin\Release\net6.0\publish\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\trium\Desktop\Zealand RAT\ZRAT\Client\bin\Release\net6.0\publish\runtimes\win\lib\net6.0\System.Drawing.Common.dll
